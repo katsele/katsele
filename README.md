@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katsele
-- 👔 I'm leading Design Systems team and 
+- 👔 I'm leading Design Systems teams and 
 - 🎓 I have 15+ years of experience in Design (mostly UX/UI and a bit of frontend)
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning ReactJS
